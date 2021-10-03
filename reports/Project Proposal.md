@@ -1,11 +1,36 @@
-# Heading
+# 
 
-## Heading 2
+###### by Mahima Beltur and Jason Sol
 
-*This text will be italic*
-_This will also be italic_
+## Abstract
 
-**This text will be bold**
-__This will also be bold__
+## Annotated Bibliography
 
-_You **can** combine them_
+## Experiments and their Replications
+
+### Experiments
+
+* Item 1
+* Item 2
+* Item 3
+
+### Replicas
+
+* Item 1
+* Item 2
+* Item 3
+
+## Predicted Results- Sketch
+
+## Interpretation of Result
+
+## Areas of Concern
+
+## Next Steps
+
+### By team member
+
+* Mahima
+* Jason
+
+### First Week Goals
