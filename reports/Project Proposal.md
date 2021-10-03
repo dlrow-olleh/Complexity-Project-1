@@ -1,6 +1,6 @@
-#Heading
+# Heading
 
-##Heading 2
+## Heading 2
 
 *This text will be italic*
 _This will also be italic_
