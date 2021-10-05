@@ -45,7 +45,11 @@ There does not seem to be a high amount of traffic data readily availalble to us
 ### First Week Individual Goals
 
 * Mahima
+  * Understand theory behind stochastic CAs
+  * Implement the single-lane traffic model from pseudocode
 * Jason
+  * Focus on understanding implementation understanding of how to turn it fuzzy
+  * Implement the Multi-lane traffic model from pseudocode
 
 ### First Week Team Goals
 Our first week goals are to get a thorough understanding of the literature we are using-- specifically the report by Rodaro and Yeldan. We will also attempt to implement the pseudo code provided in their report.
