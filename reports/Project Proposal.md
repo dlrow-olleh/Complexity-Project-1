@@ -8,7 +8,16 @@ An accurate simulation of traffic is very useful tool that serves endless purpos
 
 
 ## Annotated Bibliography
+https://arxiv.org/pdf/physics/0509082.pdf
 
+
+This paper explores TCA models and methods to use cellular automata models and mathematical notations to quantify real world units and simulate traffic flow. TCA models arise from the physics discipline of statistical mechanics to reproduce correct macroscopic behavior based on microscopic interactions. It dives into behavioral aspects of several TCA models, including single to multi lane networks. They conclude that with a concise overview of TCA models in multi-lane settings, a brake-light TCA model is the most promising. Though they state that these models are rapidly evolving further and further as we attempt to describe individual behaviors within a large scale road network. 
+ 
+
+https://arxiv.org/pdf/1302.0488.pdf?fbclid=IwAR0xm4DURepbl-D6eBnUAx677OVSQzO9nmJ_aw1pttb3FzLtI-rpXqqeS24
+
+
+This paper explores a new method of simulating vehicular behavior and traffic modeling. Usually, one would choose to prioritize computational efficiency or realism when trying to model this behavior, but this research proposes a new class between these categories, combining efficiency from cellular automata models and accuracy of other microscopic models. This new traffic model would be based on continuous cellular automata. The conclusion came to an inconclusive analysis, but the report gave insight into the potentiality of a new way to simulate this behavior through continuous CA. 
 
 
 ## Experiments and their Replications
