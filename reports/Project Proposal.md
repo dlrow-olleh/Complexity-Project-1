@@ -25,9 +25,8 @@ An accurate simulation of traffic is very useful tool that serves endless purpos
 * Another potential variation we could try is to incorporate real-life data into the model by Rodaro and Yeldan and attempt to validate them since they have not taken this step as of yet.
 
 ## Predicted Results- Sketch
-
-* For Rodaro and Yeldan
-* For Maerivoet and De Moor
+Title: Traffic Phases in single vs multi-lane traffic
+![image](https://user-images.githubusercontent.com/42980963/135946993-f8c8e22a-2c8c-41ae-a00c-ccbd764ee847.png)
 
 ## Interpretation of Result
 
