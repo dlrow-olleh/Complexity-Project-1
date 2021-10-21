@@ -25,6 +25,7 @@ A stretch-goal for our variations is to implement a multi-lane model and enable 
 ## Sample Results of Replicated Model:
 
 ![image](https://user-images.githubusercontent.com/42980963/138190280-cc4c74ad-109e-4712-9884-3bd6d98c21b9.png)
+
 This model shows a series of square cars on a circular highway. The red triangles appear adjacent to any two cars that collide (by their shapes overlapping on the windwo space). 
 ## Predicted Results- Sketch
 
